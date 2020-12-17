@@ -69,12 +69,24 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/priscilasilveiranails"
+    - label: "WhatsApp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://api.whatsapp.com/send?phone=351961581916"
+    - label: "961 581 916"
+      icon: "fa fa-fw fa-phone"
+      url: "tel:+351961581916"
 
 footer:
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/priscilasilveiranails"
+    - label: "WhatsApp"
+      icon: "fab fa-fw fa-whatsapp"
+      url: "https://api.whatsapp.com/send?phone=351961581916"
+    - label: "961 581 916"
+      icon: "fa fa-fw fa-phone"
+      url: "tel:+351961581916"
 
 defaults:
   # _posts

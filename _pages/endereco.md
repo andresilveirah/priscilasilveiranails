@@ -4,7 +4,7 @@ title: "Endereço"
 author_profile: false
 ---
 
-Estamos em funcionamento todos os dias em horário comercial ou de <b>Segunda a Domingo</b> com hora marcada.
+Estamos em funcionamento todos os dias em horário comercial ou de <strong>Segunda a Domingo</strong> com hora marcada.
 {: .notice--success}
 
 <address>

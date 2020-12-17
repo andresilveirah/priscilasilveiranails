@@ -7,5 +7,11 @@ main:
   #   url: /tags/
   - title: "Endereço"
     url: /endereco/
+    description: Endereço
   - title: "Sobre"
     url: /sobre/
+    description: Sobre Mim
+  - title: Agende seu Horário
+    url: https://app.acuityscheduling.com/schedule.php?owner=21497196
+    description: Agende seu horário
+    primary: true

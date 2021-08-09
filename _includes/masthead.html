@@ -15,7 +15,7 @@
           {%- for link in site.data.navigation.main -%}
             <li class="masthead__menu-item">
               {% if link.primary %}
-              <a  class="btn btn--primary" href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %} target="_blank">{{ link.title }}</a>
+              <a style="color: white;" class="btn btn--primary" href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %} target="_blank" rel="noopener">{{ link.title }}</a>
               {% else %}
               <a href="{{ link.url | relative_url }}"{% if link.description %} title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
               {% endif %}

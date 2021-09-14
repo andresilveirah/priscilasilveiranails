@@ -17,10 +17,8 @@ locale: pt-PT
 # in the templates via {{ site.myvariable }}.
 title: Priscila Silveira Nails
 email: priscilanailsgel@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: "Cuidar das suas unhas é cuidar de você.\n
+Profissional com anos de experiência em nail design, gelinho, alongamento em fibra, banho de gel e decoração e manutenção de unhas em geral. Agende já o seu horário."
 # twitter_username: username
 # github_username: username
 minimal_mistakes_skin: default
@@ -108,9 +106,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/

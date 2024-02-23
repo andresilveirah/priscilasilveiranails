@@ -5,7 +5,10 @@ main:
   - title: "Sobre"
     url: /sobre/
     description: Sobre Mim
-  - title: Agende seu Horário
-    url: https://app.acuityscheduling.com/schedule.php?owner=21497196
+  - title: "<i class='fab fa-fw fa-whatsapp'></i> Agende seu Horário"
+    url: https://api.whatsapp.com/send?phone=351961581916
     description: Agende seu horário
     primary: true
+
+# Agenda
+# https://app.acuityscheduling.com/schedule.php?owner=21497196
